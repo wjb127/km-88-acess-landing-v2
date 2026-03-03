@@ -1,0 +1,16 @@
+[     212ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3099/_next/static/chunks/e1c2c4951ce0e945.css:0
+[     259ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3099/_next/static/chunks/turbopack-5b8a897bb98b3c82.js:0
+[     400ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3099/_next/static/chunks/f6d860a9d8569b46.js:0
+[     401ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3099/_next/static/chunks/9eb04d9f4588fe37.js:0
+[     401ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3099/_next/static/chunks/ff1a16fafef87110.js:0
+[     485ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3099/_next/static/chunks/82abf2d65f5428ae.js:0
+[     485ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3099/_next/static/chunks/aa4a6696e1c8dd7f.js:0
+[     486ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3099/_next/static/chunks/d2be314c3ece3fbe.js:0
+[     486ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3099/_next/static/chunks/aee6c7720838f8a2.js:0
+[     487ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3099/_next/static/chunks/51985fd65ca3de61.js:0
+[     489ms] [ERROR] Failed to load resource: the server responded with a status of 400 (Bad Request) @ http://localhost:3099/_next/image?url=%2Fimages%2Flawyer%2Flawyer-casual.jpg&w=1920&q=75:0
+[     491ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3099/_next/static/chunks/864173ff4ae30de0.js:0
+[     492ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3099/_next/static/chunks/10cbf02e6fc36465.js:0
+[     495ms] [ERROR] Failed to load resource: the server responded with a status of 400 (Bad Request) @ http://localhost:3099/_next/image?url=%2Fimages%2Flogo%2Feden-logo.png&w=384&q=75:0
+[     497ms] [ERROR] Failed to load resource: the server responded with a status of 400 (Bad Request) @ http://localhost:3099/_next/image?url=%2Fimages%2Flawyer%2Flawyer-desk.jpg&w=640&q=75:0
+[     497ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3099/favicon.png:0
