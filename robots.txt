@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://km-88-acess-landing-v2.vercel.app/sitemap.xml
+Sitemap: https://japandrugprice.com/sitemap.xml
