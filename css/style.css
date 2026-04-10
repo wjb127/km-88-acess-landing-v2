@@ -870,7 +870,8 @@ ul, ol {
 .product-card-img img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: contain;
+  padding: var(--space-3);
 }
 
 .product-card-body {
@@ -1156,7 +1157,9 @@ ul, ol {
   }
 
   .products-grid {
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(2, 1fr);
+    max-width: 700px;
+    margin: 0 auto;
   }
 
   .pricing-grid {
